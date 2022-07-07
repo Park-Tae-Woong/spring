@@ -42,13 +42,6 @@ public class Board extends Timestamped{
         this.content = requestDto.getContent();
 
     }
-    public void delete(BoardRequestDto requestDto) {
-        this.title = requestDto.getTitle();
-        this.name = requestDto.getName();
-        this.password = requestDto.getPassword();
-        this.content = requestDto.getContent();
-
-    }
 
 
 }
