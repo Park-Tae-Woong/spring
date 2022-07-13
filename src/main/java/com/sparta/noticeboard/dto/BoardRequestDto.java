@@ -1,4 +1,4 @@
-package com.sparta.noticeboard.domain;
+package com.sparta.noticeboard.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

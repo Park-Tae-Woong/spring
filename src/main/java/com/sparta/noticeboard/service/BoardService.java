@@ -2,7 +2,7 @@ package com.sparta.noticeboard.service;
 
 import com.sparta.noticeboard.domain.Board;
 import com.sparta.noticeboard.domain.BoardRepository;
-import com.sparta.noticeboard.domain.BoardRequestDto;
+import com.sparta.noticeboard.dto.BoardRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
